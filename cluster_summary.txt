@@ -1,0 +1,18 @@
+Cluster 0: Moderate/low danceability, Energetic and lively, Fast tempo, Positive mood
+Top Tracks:
+ - Walking On Sunshine by Katrina & The Waves
+ - Mayonaka no Door / Stay With Me by Miki Matsubara
+ - Dancing in the Moonlight by Toploader
+
+Cluster 1: Moderate/low danceability, Calm or mellow, Moderate/slow tempo, Positive mood
+Top Tracks:
+ - Introduction to the Snow by Miracle Musical
+ - Unsere Erde - Teil 01 by Was ist Was
+ - Pippi im Taka-Tuka-Land - Hörspiel zum Film - Teil 01 by Pippi Langstrumpf
+
+Cluster 2: Moderate/low danceability, Calm or mellow, Moderate/slow tempo, Somber/neutral mood
+Top Tracks:
+ - Weightless Part 1 by Marconi Union
+ - Field by Evgeny Grinko
+ - One Man's Dream by Yanni
+
